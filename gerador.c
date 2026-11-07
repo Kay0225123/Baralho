@@ -28,7 +28,7 @@ void imprime_desfaz(char *rajada, int numCartas){
             printf("DESFAZ\n");
         }
     }
-    //pro jogo :3
+
     if (strcmp(rajada, "JOGO") == 0){
         for (int i = 0; i < numCartas; i++){
             printf("DESFAZ\n");
